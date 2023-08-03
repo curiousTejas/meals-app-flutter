@@ -6,4 +6,4 @@ An app showing recipes of various Multi-cuisine meals. The meals can be filtered
 
 This is how the app looks like inside:
 
-<img src="app.gif" width=40% height=40%>
+<img src="app.gif" width=28% height=28%>
